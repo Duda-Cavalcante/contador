@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+p{
+  color:#002d56;
+  font-size: 18vh;
+  margin: 5vh;
+  
+}
+
+button{
+  width: 80px;
+  height: 80px;
+  font-size: 4vh;
+  border-radius: 90vh ;
+  margin-right: 15px;
+  color: #002d56;
+  background-color: #bee9e8 ;
+  border: none;
+}
